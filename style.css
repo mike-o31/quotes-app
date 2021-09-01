@@ -72,11 +72,11 @@ header {
     margin-bottom: 15px;
 }
 
-.button:hover {
+.quote-button:hover {
     background-color: #a01515
 }
 
-.button:disabled {
+.quote-button:disabled {
     background-color: #cccccc;
     color: #666666;
     cursor: not-allowed
