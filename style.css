@@ -36,8 +36,12 @@ header {
 }
 
 .quotes {
+	display: flex;
+	flex-direction: column;
 	padding: 20px 50px;
 	min-height: 400px;
+	justify-content: center;
+	align-items: center;
 }
 
 .quote-text {
