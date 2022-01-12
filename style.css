@@ -92,12 +92,4 @@ header {
 	.app {
 		width: 100%;
 	}
-	.quote-text {
-		font-size: 2rem;
-		text-align: center;
-	}
-	.quote-author {
-		font-size: 1rem;
-		text-align: center;
-	}
 }
